@@ -1,3 +1,3 @@
 # 腾讯动漫
-#phthon3
-by tool PhantomJS
+#coding:utf-8;phthon3
+#by tool PhantomJS
